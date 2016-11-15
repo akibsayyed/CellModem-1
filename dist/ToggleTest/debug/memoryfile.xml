@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/ToggleTest/debug\CellModem.debug.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>2570</used>
+      <free>13814</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>768</length>
+      <used>138</used>
+      <free>630</free>
+    </memory>
+  </executable>
+</project>
